@@ -1,7 +1,9 @@
 📈 Customer Ops Analytics - Pipeline Inteligente de Demandas
+
+
 Bem-vindo(a) ao Customer Ops Analytics! Este é um sistema inteligente de engenharia e análise de dados desenvolvido para resolver um problema crítico em grandes empresas: a bagunça, os erros e os riscos de segurança no recebimento de reclamações de clientes.
 
-O sistema funciona como uma "Fábrica Automática" que se conecta a um banco de dados relacional, limpa as informações de forma segura, audita a qualidade dos dados, classifica tudo por inteligência lógica e entrega um painel de controle (Dashboard) pronto para os diretores tomarem decisões.
+O sistema funciona como uma "Fábrica Automática" que se conecta a um banco de dados relacional, limpa as informações de forma segura, audita a qualidade dos dados, classifica tudo por inteligência lógica e entrega um painel de controle (Dashboard) pronto para os responsáveis tomarem decisões.
 
 🛠️ O que usamos para construir esse projeto? (Tecnologias)
 Para garantir que o projeto rodasse rápido, fosse leve e não dependesse de instalações complexas no computador da empresa, usamos as ferramentas mais consolidadas do mercado de dados:
